@@ -15,6 +15,4 @@ A hangman game is developed in Dart with the Flutter framework. It's a fun game 
 
 App screenshots created with <a href="https://previewed.app/">Previewed</a>
 
-## License
 
-Released under MIT License. See [LICENSE](LICENSE) for more info.
